@@ -1,0 +1,10 @@
+--- 
+columns: 
+  - date
+  - hour
+  - open
+  - high
+  - low
+  - close
+  - volume
+timezone: GMT-6
