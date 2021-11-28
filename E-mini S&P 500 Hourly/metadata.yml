@@ -8,3 +8,5 @@ columns:
   - close
   - volume
 timezone: GMT-6
+first_date: 01/04/2007 18:00:00
+last_date: 24/11/2021 23:00:00
